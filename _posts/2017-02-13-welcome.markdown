@@ -2,7 +2,7 @@
 layout: post
 title: 'Welcome!'
 ---
-We would like to welcome you to Log(n), a blog hosted by LOGN, LLC and aiming
+We would like to welcome you to log(n), a blog hosted by LOGN, LLC and aiming
 at providing our readers with relevant information about JavaScript, Ruby on
 Rails and Python.
 
