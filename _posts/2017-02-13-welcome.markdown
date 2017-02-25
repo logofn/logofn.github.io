@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Welcome!'
+tags: ['welcome', 'data', 'science', 'scala']
 ---
 We would like to welcome you to log(n), a blog hosted by LOGN, LLC and aiming
 at providing our readers with relevant information about JavaScript, Ruby on
