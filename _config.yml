@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
   We are exploring the world of machine learning, data science and data visualization.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://logofn.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: @lognllc
+twitter_username: lognllc
 github_username:  logofn
 
 # Build settings
