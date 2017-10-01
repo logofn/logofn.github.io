@@ -11,7 +11,7 @@ Even though we already have experience designing and developing
 complex dashboards and data visualizations, we are starting an effort towards
 expanding our knowledge of data science. We will share our journey with you as
 we explore this new field and learn an exciting new language,
-[Scala](https://www.scala-lang.org/).
+[Elixir](https://elixir-lang.org/).
 
 {% if jekyll.environment == 'production' %}
   {% include responsive-ad.html %}
