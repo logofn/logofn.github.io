@@ -16,8 +16,7 @@
 title: log(n)
 email:
 description: > # this means to ignore newlines until "baseurl:"
-  We are JavaScript hackers. We are Python, Ruby on Rails and Elixir enthusiasts.
-  We are exploring the world of machine learning, data science and data visualization.
+  We are JavaScript, Python, Elixir, Ruby on Rails and Kotlin hackers.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://logofn.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lognllc
