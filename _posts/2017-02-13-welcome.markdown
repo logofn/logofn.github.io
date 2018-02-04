@@ -4,15 +4,5 @@ title: 'Welcome!'
 tags: ['welcome', 'data', 'science', 'scala']
 ---
 We would like to welcome you to log(n), a blog hosted by LOGN, LLC and aiming
-at providing our readers with relevant information about JavaScript, Ruby on
-Rails and Python.
-
-Even though we already have experience designing and developing
-complex dashboards and data visualizations, we are starting an effort towards
-expanding our knowledge of data science. We will share our journey with you as
-we explore this new field and learn an exciting new language,
-[Elixir](https://elixir-lang.org/).
-
-{% if jekyll.environment == 'production' %}
-  {% include responsive-ad.html %}
-{% endif %}
+at providing our readers with relevant information about JavaScript, Python, Elixir, Ruby on
+Rails and Kotlin.
