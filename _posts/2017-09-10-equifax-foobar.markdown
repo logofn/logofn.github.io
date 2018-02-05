@@ -11,7 +11,7 @@ If you are affected and your data has been stolen, Equifax is providing you with
 
 In order to preemptively protect yourself, you should put a freeze on your credit. This will prevent anyone (including yourself) from opening new lines of credit or doing credit checks. You’ll need to put a freeze with all the credit reporting agencies and you’ll be given a PIN which you can use to (temporarily) unfreeze your account later. Also note not to do this if you’re in the process of getting a car loan, a mortgage or having your credit checked. Wait until everything has been processing before placing a freeze. Lastly, it does not prevent you from getting your free annual credit report and does not prevent fraud against your current accounts.
 
-### How do I place a credit freeze?
+#### How do I place a credit freeze?
 
 - Equifax: call 1-800-349-9960 or [online](https://www.freeze.equifax.com/Freeze/jsp/SFF_PersonalIDInfo.jsp)
 
@@ -37,7 +37,7 @@ Note that they might be fees associated with placing, temporarily lifting or rem
 
 Also, you should consider stopping prescreened offers of credit. Your mail (and emails) can be intercepted and hackers can accept these offers on your behalf. To stop them, call 888-5OPTOUT (888-567-8688) or go online [https://www.optoutprescreen.com/?rf=t](https://www.optoutprescreen.com/?rf=t). You can opt out for 5 years or permanently.
 
-### How do I protect myself online?
+#### How do I protect myself online?
 
 Now that your credit is frozen, you still need to worry about your current accounts. For any financial, medical, personal business done online, you can safely assume that it can and will get hacked. **Do not provide more information than required when filling out forms, whether online or on paper.**
 
@@ -45,7 +45,7 @@ Use two-factor authentication for your online accounts, whether it is for your e
 
 **Do not re-use passwords!** I can’t stress this enough, do not use the same password for your different accounts. Favor passphrases over simple passwords ([see this comic for reference](https://www.xkcd.com/936/)). I have been using a password manager: [KeePass](http://keepass.info/). A password manager allows you to create and manage passwords for all your different online accounts. You only have to remember one master password to open the safe. There are plenty of options, local and online and I leave it to the reader to do some research. Be aware that the online options can be and have been hacked in the past: [see this article](https://blog.lastpass.com/2015/06/lastpass-security-notice.html/). Personally, I would favor solutions that are stored locally and not in the cloud.
 
-### What do I do if my identity gets stolen?
+#### What do I do if my identity gets stolen?
 
 I am fortunate to not have had to go through this but a good place to start would be: [https://www.identitytheft.gov/](https://www.identitytheft.gov/).
 
