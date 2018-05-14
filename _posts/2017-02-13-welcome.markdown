@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Welcome!'
-tags: ['welcome', 'JavaScript', 'Python', 'Elixir', 'Ruby on Rails', 'Kotlin']
+tags: ['welcome', 'JavaScript', 'Python', 'Elixir', 'Ruby on Rails', 'Kotlin', 'haskell', 'C', 'Rust']
 ---
 We would like to welcome you to log(n), a blog hosted by LOGN, LLC and aiming
 at providing our readers with relevant information about JavaScript, Python, Elixir, Ruby on
-Rails and Kotlin.
+Rails, Kotlin, C, Rust and anything that we find interesting in the world of tech.
