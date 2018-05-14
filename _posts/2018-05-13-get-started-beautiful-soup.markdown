@@ -13,7 +13,7 @@ pip install requests beautifulsoup4
 import requests
 from bs4 import BeautifulSoup
 
-page = requests.get(url)
+page = requests.get('https://some-url/')
 soup = BeautifulSoup(page.text, 'html.parser')
 
 links = soup.find_all('a', class_='links')
