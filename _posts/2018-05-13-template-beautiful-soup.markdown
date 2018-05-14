@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[Template] Beautiful Soup'
+title: 'Get Started With Beautiful Soup'
 tags: ['beautiful', 'soup', 'bs4', 'python', 'web', 'scraper']
 ---
 Here's a code snippet in Python to get started with web scraping and the library Beautiful Soup.
