@@ -23,7 +23,3 @@ for link in links:
     href = link.get('href')
     text = link.get_text()
 ```
-
-{% if jekyll.environment == 'production' %}
-  {% include responsive-ad.html %}
-{% endif %}

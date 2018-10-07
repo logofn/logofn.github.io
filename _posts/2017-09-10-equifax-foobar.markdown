@@ -54,7 +54,3 @@ I am fortunate to not have had to go through this but a good place to start woul
 - *Credit freeze FAQs: [https://www.consumer.ftc.gov/articles/0497-credit-freeze-faqs](https://www.consumer.ftc.gov/articles/0497-credit-freeze-faqs)*
 - *John Resig: [https://www.facebook.com/jeresig/posts/10102473222474375?_fb_noscript=1](https://www.facebook.com/jeresig/posts/10102473222474375?_fb_noscript=1)*
 - *Brian Krebs: [https://krebsonsecurity.com/2015/06/how-i-learned-to-stop-worrying-and-embrace-the-security-freeze/](https://krebsonsecurity.com/2015/06/how-i-learned-to-stop-worrying-and-embrace-the-security-freeze/)*
-
-{% if jekyll.environment == 'production' %}
-  {% include responsive-ad.html %}
-{% endif %}
