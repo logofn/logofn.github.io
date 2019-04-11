@@ -54,7 +54,7 @@ defmodule ApiRouter do
   plug :dispatch
 
   get "/" do
-    send_resp(conn, 200, "Hello, api!")
+    send_resp(conn, 200, "Hello, API!")
   end
 
   get "/hello/:name" do
